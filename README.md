@@ -1,9 +1,9 @@
 ### Boas vindas ao meu perfil 🤍
 
-meu nome e kevelyn beatriz
+Meu nome e **kevelyn beatriz**
 
-- estou estudando alura
-- estou me desenvolvendo na linguagem javaScript
+- Estou estudando alura
+- Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meu progetos desenvolvidos
 
 - ### voce entrar em contato comigo 😬
